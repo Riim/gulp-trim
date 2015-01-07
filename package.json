@@ -1,6 +1,6 @@
 {
   "name": "gulp-trim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gulp-trim",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/Riim/gulp-trim/issues"
   },
   "homepage": "https://github.com/Riim/gulp-trim",
-  "devDependencies": {
+  "dependencies": {
     "through2": "^0.6.3"
   }
 }
